@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="not-found"><h1>Визитка недоступна</h1><p>Возможно, владелец временно скрыл её или адрес указан неверно.</p><a className="primary" href="/">Перейти в SM TAP</a></main>;}

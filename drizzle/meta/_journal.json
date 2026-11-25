@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1793037992191,
+      "tag": "0000_glamorous_oracle",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1793814064502,
+      "tag": "0001_volatile_corsair",
+      "breakpoints": true
+    }
+  ]
+}
